@@ -9,6 +9,7 @@ This model has 2000 dataset which is split into train and test set. Training set
 ![Screenshot (277)](https://github.com/itatrilestari/type_of_leaf_veins_classification/assets/126906101/c48d1e0e-81ee-4c84-9441-247c7204904b)
 
 The dataset collect from Kaggle and Roboflow. 
+
 1. Menyirip
     Mango : 500 image
     https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset
@@ -38,7 +39,8 @@ The model has good accuracy and is stable at 99% with 10 epochs.
 ![Screenshot (279)](https://github.com/itatrilestari/type_of_leaf_veins_classification/assets/126906101/15fe6a52-871a-4629-8861-a6466da152eb)
 
 As you can see in this plot of the training and test result.
-![Uploading Screenshot (280).png…]()
+![Screenshot (280)](https://github.com/itatrilestari/type_of_leaf_veins_classification/assets/126906101/3a41776d-dc2e-4371-8b0a-c61aea1aea7d)
+
 
 
 
